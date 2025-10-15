@@ -1,5 +1,5 @@
 ## Samu 192
-![samu 192](image-5.png "samu 192")
+![samu 192](imagens_samu\image-5.png "samu 192")
 
 ---
 
@@ -19,7 +19,7 @@
 
 
 **Você está em uma emergência?**
-![](image-7.png)
+![](imagens_samu\image-7.png)
 
 -  [Ligar para SAMU 190](tel:190)
 -  [Compartilhar localização com socorristas](#tela-de-localizacao)
@@ -41,17 +41,17 @@
   - Tipo de emergência
   - Estado da vítima
   - Seu nome e telefone
-  ![](image-4.png)
+  ![](imagens_samu\image-4.png)
 
 ### 3. Preste Primeiros Cuidados
 - Se tiver treinamento, aplique primeiros socorros.
 - Não mova a vítima sem necessidade.
-- Mantenha-a calma e segura.![.](image-2.png)
+- Mantenha-a calma e segura.![.](imagens_samu\image-2.png)
 
 ### 4. Aguarde a Equipe
 
 - Mantenha o local acessível.
-- Afaste curiosos e sinalize a área.![](image-3.png)
+- Afaste curiosos e sinalize a área.![](imagens_samu\image-3.png)
 
 ### 5. Apoie o Atendimento
 
