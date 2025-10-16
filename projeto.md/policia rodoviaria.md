@@ -1,5 +1,5 @@
 # Polícia Rodoviária Estadual 198
-
+![](imagens_rodoviario\image.png "POLICIA RODOVIARIO 198")
 ---
 
 ## Tela Inicial
@@ -14,9 +14,9 @@
 
 ##  Tela de Emergência
 
-[Alerta de emergência]
+🚨 Alerta de emergência
 
-**Você está em uma situação de risco nas rodovias estaduais?**
+**caso esteja  em uma situação de risco nas rodovias estaduais**
 
 -  [Ligar para Polícia Rodoviária Estadual 198](tel:198)
 -  [Compartilhar localização com patrulheiros](#tela-de-localizacao)
@@ -27,11 +27,12 @@
 ##  Passo a Passo de Ocorrência Rodoviária
 
 ### 1. Identifique a Situação
+![](imagens_rodoviario\image-1.png)
 
 - Verifique se há acidente, veículo parado em local perigoso, infração grave ou risco à vida.
 - Mantenha a calma e sinalize o local com segurança.
 
-### 2. Ligue para a Polícia Rodoviária Estadual 198
+### 2. Ligue para a Polícia Rodoviária Estadual 198 📞
 
 - Informe com clareza:
   - Local exato (rodovia, km, sentido)
@@ -40,12 +41,14 @@
   - Seu nome e telefone
 
 ### 3. Proteja o Local
+![](imagens_rodoviario\image-2.png)
 
 - Acione o pisca-alerta e use triângulo de sinalização.
 - Evite permanecer na pista.
 - Se possível, retire o veículo para o acostamento.
 
 ### 4. Aguarde a Patrulha
+
 
 - Mantenha o local acessível.
 - Evite aglomerações e siga orientações de segurança.

@@ -1,4 +1,5 @@
-#  Bombeiros 193
+# 🚒  Bombeiros 193
+![](imagens_bombeiro\image-4.png)
 
 ---
 
@@ -13,9 +14,9 @@
 
 ##  Tela de Emergência
 
-[Alerta de emergência]
 
-**Você está em uma situação de risco?**
+
+**Estando em uma situação de risco!**
 
 -  [Ligar para Bombeiros 193](tel:193)
 -  [Compartilhar localização ](#tela-de-localizacao)
@@ -26,11 +27,13 @@
 ##  Passo a Passo de Resgate
 
 ### 1. Identifique o Perigo
+![](imagens_bombeiro\image-5.png)
 
 - Verifique se há fogo, fumaça, risco de desabamento ou pessoas presas.
 - Mantenha a calma e afaste-se de áreas perigosas.
 
 ### 2. Ligue para os Bombeiros 193
+![](imagens_bombeiro\image-3.png)
 
 - Informe com clareza:
   - Local exato da ocorrência
@@ -39,12 +42,14 @@
   - Seu nome e telefone
 
 ### 3. Proteja Vidas
+![](imagens_bombeiro\image-2.png)
 
 - Se possível, desligue fontes de energia ou gás.
 - Evacue o local com segurança.
 - Não tente apagar o fogo sem preparo.
 
 ### 4. Aguarde a Equipe
+![](imagens_bombeiro\image-1.png)
 
 - Mantenha o acesso livre para os bombeiros.
 - Sinalize o local e afaste curiosos.
@@ -58,8 +63,9 @@
 ---
 
 ##  Kit de Primeiros Socorros
+![](imagens_bombeiro\image.png)
 
-**Itens essenciais:**
+
 - Luvas resistentes ao calor
 - Gaze e esparadrapo
 - Tesoura e pinça

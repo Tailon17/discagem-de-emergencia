@@ -1,78 +1,75 @@
-#  Polícia Militar 190
+#  Polícia Militar - Emergência 190
+
+![Brasão da PM](imagens_pm\image.png "Polícia Militar 190")
 
 ---
 
-##  Tela Inicial
+## 🏠 Tela Inicial
 
-**Botões:**
--  [Acionar Emergência 190](tel:190)
--  [Ver Passo a Passo de Segurança](#passo-a-passo-de-seguranca)
--  [Acessar Guia de Proteção Pessoal](#guia-de-protecao-pessoal)
+**🔘 Ações Rápidas:**
+- 📞 [Acionar Emergência 190](tel:190)
+- 📋 [Ver Passo a Passo de Segurança](#passo-a-passo-de-seguranca)
+- 🛡️ [Acessar Guia de Proteção Pessoal](#guia-de-protecao-pessoal)
 
----
--  [Postos policiais próximos](#postos-de-policia)
-##  Tela de Emergência
-
-[Alerta de emergência]
-
-**Você está em uma situação de risco ou presenciando um crime?**
-
--  [Ligar para Polícia Militar 190](tel:190)
--  [Compartilhar localização com a viatura](#tela-de-localizacao)
--  Tempo estimado para chegada: **5 minutos**
+**📍 Localização:**
+- 🚓 [Postos policiais próximos](#postos-de-policia)
 
 ---
 
-##  Passo a Passo de Segurança
+## 🚨 Tela de Emergência
 
-### 1. Identifique a Ocorrência
+> ⚠️ **Alerta de Emergência Ativado**
 
-- Verifique se há ameaça à vida, crime em andamento, violência ou perturbação.
-- Mantenha a calma e afaste-se do perigo.
+**Você está em situação de risco ou presenciando um crime?**
 
-### 2. Ligue para a Polícia Militar 190
-
-- Informe com clareza:
-  - Local exato da ocorrência
-  - Tipo de situação (roubo, agressão, suspeita, etc)
-  - Número de envolvidos
-  - Seu nome e telefone
-
-### 3. Proteja-se
-
-- Evite confrontos diretos.
-- Busque abrigo seguro.
-- Se possível, registre informações sem se expor.
-
-### 4. Aguarde a Viatura
-
-- Mantenha o local acessível.
-- Sinalize a área, se necessário.
-- Evite aglomerações.
-
-### 5. Apoie a Ação Policial
-
-- Forneça informações adicionais.
-- Siga as instruções dos policiais.
-- Registre o ocorrido, se solicitado.
+- 📞 [Ligar para Polícia Militar 190](tel:190)
+- 📍 [Compartilhar localização com a viatura](#tela-de-localizacao)
+- ⏱️ Tempo estimado para chegada: **5 minutos**
 
 ---
 
-##  Guia de Proteção Pessoal
+## 🧭 Passo a Passo de Segurança
 
-**Dicas essenciais:**
-- Evite locais isolados ou mal iluminados
-- Mantenha seus pertences próximos e seguros
-- Tenha contatos de emergência salvos no celular
-- Informe familiares sobre deslocamentos
-- Em caso de abordagem, mantenha a calma e coopere
+### 1️⃣ Identifique a Ocorrência
+- 🔍 Verifique se há ameaça à vida, crime em andamento ou perturbação.
+- 🧘‍♂️ Mantenha a calma e afaste-se do perigo.
 
-**Botões:**
+### 2️⃣ Ligue para a Polícia Militar 190
+- 🗣️ Informe com clareza:
+  - 📍 Local exato da ocorrência
+  - 🕵️ Tipo de situação (roubo, agressão, suspeita, etc)
+  - 👥 Número de envolvidos
+  - 📱 Seu nome e telefone
 
+### 3️⃣ Proteja-se
+- 🚫 Evite confrontos diretos.
+- 🏃‍♀️ Busque abrigo seguro.
+- 📸 Registre informações sem se expor.
 
--  [Guia de como agir em situações de risco](#instrucoes-de-seguranca)
+### 4️⃣ Aguarde a Viatura
+- 🚪 Mantenha o local acessível.
+- 🚧 Sinalize a área, se necessário.
+- 🚷 Evite aglomerações.
+
+### 5️⃣ Apoie a Ação Policial
+- 🧾 Forneça informações adicionais.
+- 🫡 Siga as instruções dos policiais.
+- 📝 Registre o ocorrido, se solicitado.
 
 ---
 
+## 🛡️ Guia de Proteção Pessoal
 
-     >⚠️ **Importante:** Use o app com responsabilidade. Em caso de emergência, acione a Polícia Militar pelo 190 imediatamente.
+**📌 Dicas Essenciais:**
+- 🚷 Evite locais isolados ou mal iluminados
+- 🎒 Mantenha seus pertences próximos e seguros
+- 📲 Tenha contatos de emergência salvos no celular
+- 🗺️ Informe familiares sobre deslocamentos
+- 🤝 Em caso de abordagem, mantenha a calma e coopere
+
+**📘 Recursos:**
+- 📖 [Guia de como agir em situações de risco](#instrucoes-de-seguranca)
+
+---
+
+> ⚠️ **Importante:** Use o app com responsabilidade. Em caso de emergência, acione a Polícia Militar pelo 190 imediatamente.
