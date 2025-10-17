@@ -18,13 +18,13 @@
 
 
 
-**Você está em uma emergência?**
+
 ![](imagens_samu\image-7.png)
 
 
 ---
 
-##  Siga Passo a Passo. 
+##  Siga o Passo a Passo. 
 
 ### 1. Ligue para o SAMU 190
 
