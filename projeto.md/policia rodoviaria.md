@@ -2,43 +2,30 @@
 ![](imagens_rodoviario\image.png "POLICIA RODOVIARIO 198")
 ---
 
-## Tela Inicial
 
-**Botões:**
--  [Acionar Emergência 198](tel:198)
--  [Ver Passo a Passo de Ocorrência Rodoviária](#passo-a-passo-de-ocorrencia-rodoviaria)
--  [Acessar Guia de Segurança Viária](#guia-de-seguranca-viaria)
--  [Postos rodoviários próximos](#postos-rodoviarios)
 
 ---
 
 ##  Tela de Emergência
 
-🚨 Alerta de emergência
 
-**caso esteja  em uma situação de risco nas rodovias estaduais**
-
--  [Ligar para Polícia Rodoviária Estadual 198](tel:198)
--  [Compartilhar localização com patrulheiros](#tela-de-localizacao)
--  Tempo estimado para chegada: **em deslocamento**
 
 ---
 
 ##  Passo a Passo de Ocorrência Rodoviária
-
-### 1. Identifique a Situação
-![](imagens_rodoviario\image-1.png)
-
-- Verifique se há acidente, veículo parado em local perigoso, infração grave ou risco à vida.
-- Mantenha a calma e sinalize o local com segurança.
-
-### 2. Ligue para a Polícia Rodoviária Estadual 198 📞
+### 1. Ligue para a Polícia Rodoviária Estadual 198 📞
 
 - Informe com clareza:
   - Local exato (rodovia, km, sentido)
   - Tipo de ocorrência (acidente, pane, infração)
   - Número de envolvidos e estado das vítimas
   - Seu nome e telefone
+### 2. Identifique a Situação
+![](imagens_rodoviario\image-1.png)
+
+- Verifique se há acidente, veículo parado em local perigoso, infração grave ou risco à vida.
+- Mantenha a calma e sinalize o local com segurança.
+
 
 ### 3. Proteja o Local
 ![](imagens_rodoviario\image-2.png)
@@ -70,8 +57,6 @@
 - Tenha contatos de emergência salvos no celular
 - Em caso de acidente, sinalize e acione o socorro
 
-**Botões:**
-- 📘 [Como agir em acidentes rodoviários](#instrucoes-de-acidente)
 
 ---
 

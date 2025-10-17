@@ -6,8 +6,7 @@
 ##  Tela Inicial
 
 **Botões:**
--  [Acionar Emergência 193](tel:193)
--  [Ver Passo a Passo de Resgate](#passo-a-passo-de-resgate)
+-  [ Passo a Passo de Resgate](#passo-a-passo-de-resgate)
 -  [Acessar Kit de Primeiros Socorros](#kit-de-primeiros-socorros)
 
 ---
@@ -15,24 +14,11 @@
 ##  Tela de Emergência
 
 
-
-**Estando em uma situação de risco!**
-
--  [Ligar para Bombeiros 193](tel:193)
--  [Compartilhar localização ](#tela-de-localizacao)
--  Tempo estimado para chegada: **10 minutos**
-
 ---
 
 ##  Passo a Passo de Resgate
 
-### 1. Identifique o Perigo
-![](imagens_bombeiro\image-5.png)
-
-- Verifique se há fogo, fumaça, risco de desabamento ou pessoas presas.
-- Mantenha a calma e afaste-se de áreas perigosas.
-
-### 2. Ligue para os Bombeiros 193
+### 1. Ligue para os Bombeiros 193
 ![](imagens_bombeiro\image-3.png)
 
 - Informe com clareza:
@@ -40,6 +26,12 @@
   - Tipo de emergência (incêndio, acidente, resgate)
   - Número de vítimas e estado delas
   - Seu nome e telefone
+
+### 2. Identifique o Perigo
+![](imagens_bombeiro\image-5.png)
+
+- Verifique se há fogo, fumaça, risco de desabamento ou pessoas presas.
+- Mantenha a calma e afaste-se de áreas perigosas.
 
 ### 3. Proteja Vidas
 ![](imagens_bombeiro\image-2.png)

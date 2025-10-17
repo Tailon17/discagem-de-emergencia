@@ -8,8 +8,8 @@
 
 
 **Botões:**
--  [Acionar Emergência 190](tel:190)
--  [Ver Passo a Passo de Salvamento](#passo-a-passo-de-salvamento)
+
+-  [Passo a Passo de Salvamento](#passo-a-passo-de-salvamento)
 -  [Acessar Kit de Primeiros Socorros](#kit-de-primeiros-socorros)
 
 ---
@@ -21,20 +21,12 @@
 **Você está em uma emergência?**
 ![](imagens_samu\image-7.png)
 
--  [Ligar para SAMU 190](tel:190)
--  [Compartilhar localização com socorristas](#tela-de-localizacao)
--  Tempo estimado para chegada: **8 minutos**
 
 ---
 
-##  Passo a Passo de Salvamento
+##  Siga Passo a Passo. 
 
-### 1. Identifique a Emergência
-
-- Verifique se há risco de vida (queda, ferimento grave, parada cardíaca, etc).
-- Mantenha a calma e avalie o ambiente.
-
-### 2. Ligue para o SAMU 190
+### 1. Ligue para o SAMU 190
 
 - Informe com clareza:
   - Local exato da ocorrência
@@ -43,17 +35,20 @@
   - Seu nome e telefone
   ![](imagens_samu\image-4.png)
 
-### 3. Preste Primeiros Cuidados
+
+
+
+### 2. Preste Primeiros Cuidados
 - Se tiver treinamento, aplique primeiros socorros.
 - Não mova a vítima sem necessidade.
 - Mantenha-a calma e segura.![.](imagens_samu\image-2.png)
 
-### 4. Aguarde a Equipe
+### 3. Aguarde a Equipe
 
 - Mantenha o local acessível.
 - Afaste curiosos e sinalize a área.![](imagens_samu\image-3.png)
 
-### 5. Apoie o Atendimento
+### 4. Apoie o Atendimento
 
 - Forneça informações adicionais.
 - Siga as instruções dos socorristas.
@@ -62,19 +57,18 @@
 ---
 
 ##  Kit de Primeiros Socorros
-
+![](imagens_samu\image.png)
 
 
 **Itens essenciais:**
+- 📘 [Como usar cada item](#instrucoes-de-uso)
+
 - Luvas descartáveis
 - Gaze e esparadrapo
 - Tesoura e pinça
 - Antisséptico
 - Termômetro
 
-**Botões:**
-- 📘 [Como usar cada item](#instrucoes-de-uso)
-- 🎥 [Ver vídeos de instrução](#videos-de-socorro)
 
 
 ---
