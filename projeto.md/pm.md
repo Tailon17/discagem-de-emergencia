@@ -15,30 +15,24 @@
 
 ## 🧭 Passo a Passo de Segurança
 
-### 1️⃣ Ligue para a Polícia Militar 190
+### 1. Ligue para a Polícia Militar 190
 - 🗣️ Informe com clareza:
   - 📍 Local exato da ocorrência
   - 🕵️ Tipo de situação (roubo, agressão, suspeita, etc)
   - 👥 Número de envolvidos
   - 📱 Seu nome e telefone
 
-### 2️⃣ Identifique a Ocorrência
+### 2. Identifique a Ocorrência
 - 🔍 Verifique se há ameaça à vida, crime em andamento ou perturbação.
 - 🧘‍♂️ Mantenha a calma e afaste-se do perigo.
+ 
 
-### 3️⃣ Ligue para a Polícia Militar 190
-- 🗣️ Informe com clareza:
-  - 📍 Local exato da ocorrência
-  - 🕵️ Tipo de situação (roubo, agressão, suspeita, etc)
-  - 👥 Número de envolvidos
-  - 📱 Seu nome e telefone
-
-### 4️⃣ Proteja-se
+### 3. Proteja-se
 - 🚫 Evite confrontos diretos.
 - 🏃‍♀️ Busque abrigo seguro.
 - 📸 Registre informações sem se expor.
 
-### 5️⃣ Aguarde a Viatura
+### 4. Aguarde a Viatura
 - 🚪 Mantenha o local acessível.
 - 🚧 Sinalize a área, se necessário.
 - 🚷 Evite aglomerações.
